@@ -27,10 +27,10 @@ export default function AboutPage() {
           transition={{ delay: 0.2 }}
           className="mb-16"
         >
-          <h2 className="text-3xl font-semibold mb-6 text-white">Hi, I'm Zeamanuel</h2>
+          <h2 className="text-3xl font-semibold mb-6 text-white">Hi, I&apos;m Zeamanuel</h2>
           <div className="space-y-4 text-lg text-zinc-300 leading-relaxed">
             <p>
-              I'm a UX/UI Designer based in Addis Ababa, Ethiopia, with a passion for creating
+              I&apos;m a UX/UI Designer based in Addis Ababa, Ethiopia, with a passion for creating
               intuitive and beautiful digital experiences. I specialize in designing products
               that solve real problems for users across Africa and beyond.
             </p>
@@ -40,9 +40,9 @@ export default function AboutPage() {
               spans from enterprise dashboards to consumer mobile applications.
             </p>
             <p>
-              Currently, I'm teaching UX/UI design at Addis Ababa University while also taking
-              on select freelance projects. I'm particularly interested in working on products
-              that have social impact and improve people's lives.
+              Currently, I&apos;m teaching UX/UI design at Addis Ababa University while also taking
+              on select freelance projects. I&apos;m particularly interested in working on products
+              that have social impact and improve people&apos;s lives.
             </p>
           </div>
         </motion.section>
@@ -117,7 +117,7 @@ export default function AboutPage() {
         >
           <h2 className="text-3xl font-semibold mb-6 text-white">Get in Touch</h2>
           <p className="text-lg text-zinc-300 mb-8">
-            I'm always open to discussing new projects, creative ideas, or opportunities to be
+            I&apos;m always open to discussing new projects, creative ideas, or opportunities to be
             part of your vision. Feel free to reach out!
           </p>
 

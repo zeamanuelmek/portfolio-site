@@ -44,7 +44,7 @@ export function CurrentlySection() {
             Currently
           </h2>
           <p className="text-xl text-zinc-400">
-            What I'm up to these days
+            What I&apos;m up to these days
           </p>
         </motion.div>
 

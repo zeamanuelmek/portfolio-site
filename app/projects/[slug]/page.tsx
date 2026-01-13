@@ -3,7 +3,7 @@
 import { useState } from 'react';
 import { notFound } from 'next/navigation';
 import { ProjectHero, ProjectSection, ImageGallery, Lightbox } from '@/components/project';
-import { getProjectBySlug, type ProjectImage } from '@/lib/data/projects';
+import { getProjectBySlug } from '@/lib/data/projects';
 
 export default function ProjectPage({ params }: { params: { slug: string } }) {
   const project = getProjectBySlug(params.slug);
